@@ -1,0 +1,18 @@
+{
+  "responseHeader": {
+    "correlationId": "",
+    "userId": "tester"
+  },
+  "responseBody": {
+    "settlement": [
+      {
+        "firstname": "Rakesh",
+        "lastName": "Mohapatra",
+        "email": "tapurkm@gmail.com",
+        "Monthly Advertising Budget": "20000",
+        "PhoneNumber": "8342016919"
+      }
+    ]
+  },
+  "responseStatus": "success"
+}

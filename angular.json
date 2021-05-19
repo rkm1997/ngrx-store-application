@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "NGRX-Store-Appliation"
+  "defaultProject": "NGRX-Store-Appliation",
+  "cli": {
+    "analytics": "878d6301-c38c-4f0c-998c-4001548a8bf4"
+  }
 }
